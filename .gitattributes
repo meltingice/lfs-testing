@@ -1,1 +1,2 @@
 *.psd filter=lfs -crlf
+*.dat filter=lfs -crlf
