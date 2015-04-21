@@ -1,5 +1,5 @@
 [lfs]
-  url = "http://localhost:4001"
+  url = "http://localhost:4002"
 
 [credential "http://localhost:4001"]
   username = "ryanlefevre"
